@@ -1,0 +1,3 @@
+Day 1: May 19 2020                                                I learnt: String methods of Python
+Thoughts: It changed how I thought about string. Actually they are worth more than I thought.
+Commit: Uploaded Emails domain name replacer programe
