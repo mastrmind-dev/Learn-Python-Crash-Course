@@ -1,3 +1,7 @@
 Day 1: May 19 2020                                                I learnt: String methods of Python
 Thoughts: It changed how I thought about string. Actually they are worth more than I thought.
-Commit: Uploaded Emails domain name replacer programe
+Commit: Uploaded a program which raplaces domain names using "index" method
+
+Day 2: May 21 2020                                                I learnt: Python dictionaries, list and tuples
+Thoughts: It changed how I thought about string. Actually they are worth more than I thought.
+Commit: Uploaded a program which prints some keys and values of a dictionary
