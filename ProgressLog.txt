@@ -5,3 +5,5 @@ Commit: Uploaded a program which raplaces domain names using "index" method
 Day 2: May 21 2020                                                I learnt: Python dictionaries, list and tuples
 Thoughts: It changed how I thought about string. Actually they are worth more than I thought.
 Commit: Uploaded a program which prints some keys and values of a dictionary
+
+There were so many works that I had done, But unfortunately I haven't recorded them.
